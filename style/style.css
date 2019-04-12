@@ -1,0 +1,9 @@
+img{
+    height: 400px !important;
+    width: 400px !important;
+    margin-top: 20px;
+    margin-bottom: 20px; 
+}
+div{
+    display: inline;  
+}
